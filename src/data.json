@@ -1,0 +1,12 @@
+[{
+  "username": "username",
+  "tasks": [
+    {
+      "id" : 0,
+      "name": "définition de la tâche.   Temps alloué ->",
+      "allowedTime": 150,
+      "timeSpent": 0,
+      "points": 100,
+      "message": "Inscrire un message particulier pour cette tâche"
+    }]
+}]
